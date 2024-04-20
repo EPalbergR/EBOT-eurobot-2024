@@ -6,7 +6,7 @@ This repository contains code and 3D models for the robot used by E-BOT team in 
 ## Content
 
 * `t-photos` contains photos of the team 
-* `v-photos` contains photos of the robots
+* `robot-photos` contains photos of the robots
 * `video` contains the video.md file with the link to a video of the robots
 * `schemes` contains one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
 * `src` contains code of control software for all components which were programmed to participate in the competition
